@@ -19,6 +19,7 @@ Content
    <img width="946" alt="image" src="https://github.com/RafaelVonsekaSianturi/PW5_UTS_221401063/assets/114549222/e1d4671e-0baf-4016-a1cf-e3a0ae15f884">
 
 Fitur
+
 Desain responsif untuk tampilan optimal pada berbagai perangkat.
 Navbar dengan gulir halus ke bagian-bagian yang berbeda.
 Bagian jumbotron dengan tagline yang menarik perhatian dan gambar.
