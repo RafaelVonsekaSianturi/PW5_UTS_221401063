@@ -1,6 +1,7 @@
 # PW5_UTS_221401063
 
-Situs web Hillary Beauty Bar dirancang untuk memamerkan layanan, fitur, dan harga perawatan kecantikan. Ini memberikan antarmuka yang menarik secara visual dan ramah pengguna bagi pengunjung untuk mempelajari lebih lanjut tentang nail art dan penawarannya. Situs web ini mencakup bagian untuk fitur, harga, informasi kontak, dan formulir kontak agar pengguna dapat menghubungi.
+Situs web Hillary Beauty Bar dirancang untuk memamerkan layanan, fitur, dan harga perawatan kecantikan. Ini memberikan antarmuka yang menarik secara visual dan ramah pengguna bagi pengunjung untuk mempelajari lebih lanjut tentang nail art dan penawarannya. Situs web ini mencakup bagian untuk fitur, harga, informasi kontak, dan formulir kontak agar pengguna dapat menghubungi. [Akses situs web](https://rafaelvonsekasianturi.github.io/PW5_UTS_221401063/)
+
 
 Content
 1. Tampilan Home dan Navbar
