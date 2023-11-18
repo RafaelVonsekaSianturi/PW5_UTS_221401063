@@ -10,10 +10,10 @@ Situs web Hillary Beauty Bar dirancang untuk memamerkan layanan, fitur, dan harg
    <img width="946" alt="image" src="https://github.com/RafaelVonsekaSianturi/PW5_UTS_221401063/assets/114549222/b0b1274e-054e-4c31-b971-022685626f9d">
 
 3. Tampilan Pricing
-  <img width="946" alt="image" src="https://github.com/RafaelVonsekaSianturi/PW5_UTS_221401063/assets/114549222/ed12e99d-a1e4-4b8d-b50b-1ed9a828a0ef">
+   <img width="946" alt="image" src="https://github.com/RafaelVonsekaSianturi/PW5_UTS_221401063/assets/114549222/ed12e99d-a1e4-4b8d-b50b-1ed9a828a0ef">
 
 4. Tampilan Contact
-  <img width="946" alt="image" src="https://github.com/RafaelVonsekaSianturi/PW5_UTS_221401063/assets/114549222/889e852a-0570-4b6f-a036-523926f28583">
+   <img width="946" alt="image" src="https://github.com/RafaelVonsekaSianturi/PW5_UTS_221401063/assets/114549222/889e852a-0570-4b6f-a036-523926f28583">
 
 5. Tampilan Footer
    <img width="946" alt="image" src="https://github.com/RafaelVonsekaSianturi/PW5_UTS_221401063/assets/114549222/e1d4671e-0baf-4016-a1cf-e3a0ae15f884">
