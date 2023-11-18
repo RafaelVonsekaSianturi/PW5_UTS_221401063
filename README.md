@@ -2,7 +2,7 @@
 
 Situs web Hillary Beauty Bar dirancang untuk memamerkan layanan, fitur, dan harga perawatan kecantikan. Ini memberikan antarmuka yang menarik secara visual dan ramah pengguna bagi pengunjung untuk mempelajari lebih lanjut tentang nail art dan penawarannya. Situs web ini mencakup bagian untuk fitur, harga, informasi kontak, dan formulir kontak agar pengguna dapat menghubungi.
 
-# Content
+Content
 1. Tampilan Home dan Navbar
    <img width="946" alt="image" src="https://github.com/RafaelVonsekaSianturi/PW5_UTS_221401063/assets/114549222/1ff314f8-e558-4e03-a155-c1691395c675">
 
@@ -18,7 +18,7 @@ Situs web Hillary Beauty Bar dirancang untuk memamerkan layanan, fitur, dan harg
 5. Tampilan Footer
    <img width="946" alt="image" src="https://github.com/RafaelVonsekaSianturi/PW5_UTS_221401063/assets/114549222/e1d4671e-0baf-4016-a1cf-e3a0ae15f884">
 
-# Fitur
+Fitur
 Desain responsif untuk tampilan optimal pada berbagai perangkat.
 Navbar dengan gulir halus ke bagian-bagian yang berbeda.
 Bagian jumbotron dengan tagline yang menarik perhatian dan gambar.
